@@ -1,0 +1,19 @@
+.btn{
+    width: 80px;
+    height: 55px;
+    background-color:#dadce0;
+    color: black;
+    border: none; 
+    font-size: 25px;
+    }
+
+    .btn_side{
+        background-color: rgb(221, 177, 94);
+        width: 80px;
+        height: 55px;
+        color: black;
+        border: none; 
+        font-size: 25px;
+       
+
+    }
